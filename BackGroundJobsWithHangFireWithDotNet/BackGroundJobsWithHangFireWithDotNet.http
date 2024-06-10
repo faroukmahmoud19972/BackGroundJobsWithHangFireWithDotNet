@@ -1,0 +1,6 @@
+@BackGroundJobsWithHangFireWithDotNet_HostAddress = http://localhost:5089
+
+GET {{BackGroundJobsWithHangFireWithDotNet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
